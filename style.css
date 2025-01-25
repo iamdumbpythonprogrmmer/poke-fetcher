@@ -1,0 +1,17 @@
+body{
+    background-color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+form{
+    max-width: 380px;
+    background: white;
+}
+#stuff{
+    display: flex;
+    flex-direction:row;
+    align-items: center; 
+}
